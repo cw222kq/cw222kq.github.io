@@ -5,6 +5,8 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background: url(../bilder/sky120.jpg) center;
+    background-size: cover;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -86,6 +88,12 @@
     }
 }
 
+.profilbild {
+
+    border-radius: 200%;
+    size: 200px;
+    margin-left: 30%;
+}
 
 
 /**
