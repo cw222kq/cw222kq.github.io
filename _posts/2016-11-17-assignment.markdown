@@ -8,16 +8,18 @@ categories: jekyll update
 
 #Reflektioner över uppgiften
 
-Om man jämför den nya tekniken som vi fått inblick i, scss som översätter till css-kod. I jämförelse med att skriva vanlig
+Om man jämför den nya tekniken som vi fått inblick i, sass som översätter till css-kod. I jämförelse med att skriva vanlig
 css-kod direkt.
 Så upplevar jag att det är lättare att bara skriva vanlig css direkt. Detta trots upprepningarna som uppkommer.
-Det är kanske för att man är van med det. Med scss måste man tänka om istället. Det blir mindre upprepad
+Det är kanske för att man är van med det. Med sass måste man tänka om istället. Det blir mindre upprepad
 kod och tänket att man använder sig av variabler och nestlad kod är bra. Men samtidigt känns det mer komplicerat.
-Fördelen med scss är ju att det bli mindre upprepad kod och att koden blir med strukturerad och lättare att överblicka.
+Fördelen med sass är ju att det bli mindre upprepad kod och att koden blir med strukturerad och lättare att överblicka. Vilket är ett
+måste när det blir tillräckligt mycket kod.
 Nackdelen är att man måste tänka om och att det känns mer komplicerat.
+Tekniken jag använde för att skapa pre-compiling css var sass.
 
-Static site generators som vi använt oss av nu i den här kursen passar bra för sidor som man inte vill underhålla.
-Som ska ligga uppe.
+Static site generators som vi använt oss av nu i den här kursen passar bra för sidor som man inte vill underhålla. Som t ex en ren
+informationssida. Som ska ligga uppe år efter år.
 
 Robots.txt är en fil som sökrobotar går in och läser i. Där kan man lägga in filer eller mappar som man inte vill att
 sökrobotarna söker på.
